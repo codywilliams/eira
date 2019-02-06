@@ -2,7 +2,7 @@
 Falling snowflakes on your computer screen in a lightweight and attractive way.
 
 ## To install
-1. Drag the Eira icon to the Screen Savers folder inside of the disk image (or copy to ~/Library/Screen Savers/)
+1. Copy Eira to ~/Library/Screen Savers/
 
 ## To Use
 1. Go to System Preferences
@@ -12,6 +12,9 @@ Falling snowflakes on your computer screen in a lightweight and attractive way.
 5. Let the snow fall
 
 ## Version History
+### Version 1.0.2 - February 6, 2019
+- Removes .dmg in favor of smaller .zip.
+
 ### Version 1.0.1 - December 28, 2010
 - Fixes an incorrect alias in the disk image.
 - Updates the name of the mounted disk image to show version number.
